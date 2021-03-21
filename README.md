@@ -1,4 +1,3 @@
 # Data Wrangling Scripts
-Python files from DSC540 Data Wrangling
 
-Includes working with PDFs, APIs, web scraping, web crawling
+# Description: Python scripts using various methods to wrangle data; Includes working with PDFs, APIs, web scraping, web crawling
