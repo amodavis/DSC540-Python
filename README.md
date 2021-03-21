@@ -5,3 +5,15 @@ Re-usable Python scripts scripts using various methods to wrangle data; Includes
 
 ## Programming Languages
 - Python
+
+## Files
+- Converting PDFs - DB Load.py
+- Import Files.py
+- Load csv int Dict.py
+- Logging.py 
+- Project - Cleaning Baseball Data.py 
+- Project - College Scorecard API.py
+- Twitter API Pull.py 
+- Web Scraping.py
+- Web Spider.py 
+- agate tables.py 
