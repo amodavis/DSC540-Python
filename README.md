@@ -17,3 +17,6 @@ Re-usable Python scripts scripts using various methods to wrangle data; Includes
 - Web Scraping.py
 - Web Spider.py 
 - agate tables.py 
+
+## Credits
+Kazil, J., &amp; Jarmul, K. (2016). Data wrangling with Python. Beijing: O'Reilly.
