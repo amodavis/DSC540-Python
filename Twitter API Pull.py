@@ -83,22 +83,18 @@ def main():
     # Part I - Create a Twitter API Key and Access Token
     ####################################################
     # Twitter Consumer API keys
-    # Wt2e6JLi5f9wQ5M8E8PU88tb3(API key)
-    # mDPI3JsDZn0zAC1wKOEWCRMx7f2bafdfmqPHzjTmOsVXgi7Q84(API secret key)
 
     # Twitter Access tokens
-    # 1155826467831521280-WVEn2jlWjZ350Xg5Y7jvviJt6kD65B (Access token)
-    # kZn3ODX03ANCOmyHKO8AsrAVut9HWBZsKAqfRGoqQbcR9(Access token secret)
 
     #########################################################
     # Part II - Do a single data pull from Twitter’s REST API
     #########################################################
 
     # Set keys
-    API_KEY = 'Wt2e6JLi5f9wQ5M8E8PU88tb3'
-    API_SECRET = 'mDPI3JsDZn0zAC1wKOEWCRMx7f2bafdfmqPHzjTmOsVXgi7Q84'
-    TOKEN_KEY = '1155826467831521280-WVEn2jlWjZ350Xg5Y7jvviJt6kD65B'
-    TOKEN_SECRET = 'kZn3ODX03ANCOmyHKO8AsrAVut9HWBZsKAqfRGoqQbcR9'
+    API_KEY = ''
+    API_SECRET = ''
+    TOKEN_KEY = ''
+    TOKEN_SECRET = ''
 
     # Pull data from Twitter REST API
     url = 'https://api.twitter.com/1.1/search/tweets.json?q=%23popeindc'
